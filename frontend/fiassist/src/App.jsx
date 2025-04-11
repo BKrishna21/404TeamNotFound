@@ -10,6 +10,7 @@ function App() {
     <>
       <div>
         <p>welcome to my project...</p>
+        <p>The new line is added...</p>
       </div>
       
     </>
